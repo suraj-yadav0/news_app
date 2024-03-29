@@ -23,7 +23,7 @@ class ArticleEntity extends Equatable {
       url,
       urlToImage,
       publishedAt,
-      content
+      content,
     ];
   }
 }
